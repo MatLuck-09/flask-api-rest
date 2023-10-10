@@ -1,0 +1,22 @@
+# .gitignore
+
+# Temporary files
+.#~
+*.*~
+~.#~
+/.#~
+
+# Ide Files
+.vscode*
+.idea/
+
+# Virtual Environment
+Pipfile
+venv/
+*.pyc
+
+# Env Files
+.env
+
+# Cache
+__pycache__/
