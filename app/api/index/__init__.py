@@ -1,3 +1,6 @@
+"""
+Module that registers the index of the application.
+"""
 from flask import Blueprint
 
 
