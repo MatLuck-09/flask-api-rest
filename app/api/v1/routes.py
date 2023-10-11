@@ -1,3 +1,6 @@
+"""
+Module providing clima-api-v1 endpoints.
+"""
 from flask import jsonify
 from app.api.v1 import clima_api_v1
 
