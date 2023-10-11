@@ -3,6 +3,7 @@ from app.api.index import index
 from app.api.v1 import clima_api_v1
 from .ext import init_error_handler
 
+## INICIALIZO LA APP CON LO QUE SE NECESITE PARA EJECUTAR UNA ARQUITECTURA SOLIDA.
 
 def create_app():
 
